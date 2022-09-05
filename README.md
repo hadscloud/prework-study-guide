@@ -2,7 +2,7 @@
 
 ## Description
 
- This is a Prework Study Guide that is made for students going through a coding bootcamp, or someone who is interesed in learning the basics of cosing languages! It contains notes about HTML, CSS, Git, and JavaScript. I built this project so I can easily refer back to my foundational notes whenever I need to. 
+ This is a Prework Study Guide that is made for students going through a coding bootcamp, or someone who is interested in learning the basics of cosing languages! It contains notes about HTML, CSS, Git, and JavaScript. I built this project so I can easily refer back to my foundational notes whenever I need to. 
 
 
 
